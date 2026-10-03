@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Brands",
+    "contactUs": "Contact us",
+    "tagline": "Since 1973 · Mumbai",
+    "viewAllBrands": "View all brands"
+  },
+  "footer": {
+    "tagline": "Est. 1973, Mumbai — Milton · ANICY · NICY · Avron",
+    "copyright": "© {year} Milton Hosiery Industries. All rights reserved."
+  },
+  "common": {
+    "startEnquiry": "Start a wholesale enquiry",
+    "getInTouch": "Get in touch",
+    "seeOurBrands": "See our brands",
+    "viewDetails": "View details",
+    "photoPending": "Photo pending",
+    "launchingSoon": "Launching soon"
+  },
+  "home": {
+    "eyebrow": "Family-run since 1973",
+    "title": "Apparel brands built for how people actually get dressed.",
+    "copy": "Milton Hosiery Industries designs and owns a portfolio of apparel brands out of Mumbai — now run by the second generation of the family that started it. We work with a small group of trusted manufacturing partners to bring each brand to retailers, distributors and institutional buyers across the country.",
+    "panelLabel": "What we do",
+    "panelFigure": "Brand & distribution",
+    "panelCopy": "We design, name and market each brand ourselves. Production runs through a small set of contract manufacturing partners — we don't operate our own factory floor.",
+    "sectionHeading": "One company, four distinct brands.",
+    "sectionCopy": "Each brand has its own name, audience and product range. We keep them separate on purpose — a distributor stocking ANICY and a boutique stocking NICY are reaching very different customers.",
+    "retailersHeading": "For retailers & distributors",
+    "retailersCopy": "We supply through wholesale channels only — there's no direct-to-consumer store to compete with your shelf. Tell us which brand and volumes you're interested in and we'll get back to you with terms.",
+    "institutionalHeading": "For institutional buyers",
+    "institutionalCopy": "If you're buying in bulk for uniforms, hospitality or another institutional use, our team can work with you directly on specification and lead times.",
+    "ctaHeading": "Ready to talk stock?",
+    "ctaCopy": "Send us a short note about your business and what you're looking for — we usually reply within a couple of working days."
+  },
+  "about": {
+    "eyebrow": "Est. 1973",
+    "title": "About Milton Hosiery Industries",
+    "heritageHeading": "Our Heritage",
+    "heritageCopy": "Founded in 1973 by Mr Bankim Shroff, Milton Hosiery Industries began by manufacturing nylon trunks and men's vests. Over five decades, we have grown into a full-scale garment manufacturer while continuing to produce nylon trunks to this day.",
+    "brandsHeading": "Our Brands",
+    "brands": [
+      {
+        "name": "ANICY",
+        "desc": "Performance sportswear for men, crafted from 4-way Lycra fabric for comfort and freedom of movement."
+      },
+      {
+        "name": "NICY",
+        "desc": "Palazzos and tops for girls and women, made from carefully selected imported fabrics."
+      },
+      {
+        "name": "Avron",
+        "desc": "A new premium sportswear line, Engineered for flight.",
+        "soon": true
+      }
+    ],
+    "comingSoon": "Coming soon",
+    "manufacturingHeading": "Our Manufacturing",
+    "manufacturingCopy": "Based in Mumbai, our facility produces approximately 8,500 pieces every day:",
+    "stats": [
+      {
+        "figure": "5,000",
+        "label": "sportswear pieces"
+      },
+      {
+        "figure": "2,500",
+        "label": "palazzos and girls' wear pieces"
+      },
+      {
+        "figure": "1,000",
+        "label": "nylon trunks"
+      }
+    ],
+    "qualityHeading": "Our Quality Commitment",
+    "qualityCopy": "Our in-house quality control department inspects every piece, covering fabric, accessory placement, and washing, and every piece is individually packed.",
+    "partnerHeading": "Why Partner With Us",
+    "partnerPoints": [
+      "Wholesale and retail rates, with pricing based on quantity",
+      "No minimum order on standard products",
+      "Private label and customization available (minimum order 600 pieces)",
+      "Delivery within 5 days of order confirmation",
+      "Over 50 years of manufacturing experience"
+    ],
+    "visionHeading": "Our Vision",
+    "visionCopy": "We are building a brand for rural India: one that delivers quality and creativity at a price that lets customers buy with confidence.",
+    "customersHeading": "Our Customers",
+    "customersCopy": "We proudly serve wholesalers and retailers across the Pune and Ahmednagar districts of Maharashtra, including many tier 2 and tier 3 cities and towns.",
+    "ctaHeading": "Partner With Us",
+    "ctaCopy": "Interested in stocking our products or manufacturing with us?",
+    "ctaButton": "Send a Wholesale Inquiry →"
+  },
+  "products": {
+    "ctaHeading": "Interested in stocking one of our brands?",
+    "ctaCopy": "Let us know which brand, your business type and expected volumes.",
+    "photoNote": "Product photography shown here is placeholder — swap in real catalog images before launch.",
+    "categoryGirls": "Girls' wear",
+    "categoryLadies": "Ladies' wear",
+    "categoryAll": "All",
+    "wholesaleRate": "Wholesale rate",
+    "colorOptions": "Colour options",
+    "colorsShort": "Colours"
+  },
+  "contact": {
+    "title": "Tell us about your business.",
+    "lede": "This form is the fastest way to reach us for wholesale, distribution or institutional supply. We reply directly — no call centre in between.",
+    "panelHeading": "Reach us directly",
+    "panelSub": "Prefer to skip the form? Call or write to us directly.",
+    "officeAddress": "Office address",
+    "phone": "Phone",
+    "email": "Email",
+    "businessHours": "Business hours",
+    "emailPlaceholder": "Add your email address here",
+    "hoursValue": "10:00 AM – 7:30 PM"
+  },
+  "form": {
+    "fullName": "Full name",
+    "fullNamePlaceholder": "Your name",
+    "companyName": "Company name",
+    "companyNamePlaceholder": "Business name",
+    "email": "Email",
+    "emailPlaceholder": "you@company.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+91 ",
+    "brandInterest": "Brand you're interested in",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your business and what you're looking for",
+    "send": "Send enquiry",
+    "sending": "Sending…",
+    "success": "Thanks — your enquiry has been received. We'll be in touch shortly.",
+    "error": "Something went wrong sending that. Please try again or email us directly.",
+    "brandOptions": [
+      "Milton",
+      "ANICY",
+      "NICY",
+      "Avron",
+      "Not sure yet / general enquiry"
+    ]
+  }
+}
